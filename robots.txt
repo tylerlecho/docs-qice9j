@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-veucu4.resultadofacil.com.br/sitemap.xml
